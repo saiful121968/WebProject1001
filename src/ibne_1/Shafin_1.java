@@ -11,6 +11,7 @@ public class Shafin_1 {
 		d=("is");
 		e=a+" "+b+" "+c+" "+" "+" "+d+' '+"Shafin";
 		System.out.println(e);
+		System.out.println("My son name is Shafin");
 		
 
 	}
