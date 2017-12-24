@@ -11,6 +11,8 @@ public class Shafin_7 {
 		System.out.println("The object of a located at="+System.identityHashCode(a));
 		System.out.println("The reference of b located at="+System.identityHashCode(b));
 		
+		System.out.println("The reference of b indicated at"+" "+a.toString());
+		
 		 b=null;
 		
 			System.out.println("The object of b="+b);
