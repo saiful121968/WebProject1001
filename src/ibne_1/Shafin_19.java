@@ -8,7 +8,7 @@ public class Shafin_19 {
 		StringBuffer x=new StringBuffer ("Do you know? "); 
 		StringBuffer y=new StringBuffer("java programming.");
 		StringBuffer z;
-		z=x.insert(12, y);
+		z=x.insert(13, y);
 		System.out.println("z :\t"+z);
 
 	}

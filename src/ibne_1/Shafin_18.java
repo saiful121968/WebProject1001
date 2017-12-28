@@ -8,7 +8,7 @@ public class Shafin_18 {
 		String a= "First Name: Shakiba";
 		String b= "Last Name: Raina";
 		
-		String c=a.concat(b);
+		String c=a.concat(  b);
 			
 			
 		
