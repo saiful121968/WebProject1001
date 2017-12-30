@@ -2,7 +2,7 @@ package Ibne_2;
 
 public class Shafin_23 {
 
-	int k=8;//Instance variable
+	int i=8;//Instance variable
 	
 	
 		public static void main(String[] args) 
@@ -22,12 +22,12 @@ public class Shafin_23 {
 		
 		obj1.showdata(9);}
 	
-	public void showdata(int k)// Argument local variable 
+	public void showdata(int i)// Argument local variable 
 	 
 	 {
-		this.k=k;
+		this.i=i;
 		
-		System.out.println("Value of local argument(call instance)variable:"+this.k);
+		System.out.println("Value of local argument(call instance)variable:"+this.i);
 		
 		}
 
