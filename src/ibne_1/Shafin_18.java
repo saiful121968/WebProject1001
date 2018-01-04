@@ -1,5 +1,7 @@
 package ibne_1;
 
+//Using concat()
+
 public class Shafin_18 {
 
 	public static void main(String[] args) {

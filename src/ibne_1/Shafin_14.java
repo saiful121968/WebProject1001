@@ -1,5 +1,7 @@
 package ibne_1;
 
+//Using indexOf
+
 public class Shafin_14 {
 
 	public static void main(String[] args) {

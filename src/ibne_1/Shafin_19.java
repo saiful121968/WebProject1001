@@ -1,5 +1,7 @@
 package ibne_1;
 
+//Using insert()
+
 public class Shafin_19 {
 
 	public static void main(String[] args) {

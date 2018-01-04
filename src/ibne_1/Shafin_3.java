@@ -1,5 +1,7 @@
 package ibne_1;
 
+// Using StringBuffer
+
 public class Shafin_3 {
 
 	public static void main(String[] args) {
@@ -10,6 +12,8 @@ public class Shafin_3 {
 		b= new String (a.toString());
 		System.out.println("The string object is :"+" "+a);
 		System.out.println("Corresponding object is :"+b);
+		
+		
 
 	}
 

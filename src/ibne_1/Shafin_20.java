@@ -1,5 +1,7 @@
 package ibne_1;
 
+// Using substring
+
 public class Shafin_20 {
 
 	public static void main(String[] args) {

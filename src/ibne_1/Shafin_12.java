@@ -1,5 +1,6 @@
 package ibne_1;
 
+//using charAt
 public class Shafin_12 {
 
 	public static void main(String[] args) {

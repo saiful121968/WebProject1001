@@ -1,5 +1,7 @@
 package ibne_1;
 
+//Using length method
+
 public class Shafin_11 {
 
 	public static void main(String[] args) {

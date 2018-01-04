@@ -1,5 +1,5 @@
 package ibne_1;
-
+// Using equalsIgnorecase
 public class Shafin_17 {
 
 	public static void main(String[] args) {

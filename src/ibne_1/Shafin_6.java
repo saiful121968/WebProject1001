@@ -11,10 +11,10 @@ public class Shafin_6 {
 		String q1="Ad"+"ira";
 		String x=p1+" "+q1;
 		
-		System.out.println("p1=q1 is"+" "+p1);
-		System.out.println(q1);
+		System.out.println("p1 is"+" "+p1);
+		System.out.println("q1 is"+q1);
 		System.out.println(x);
-		System.out.println("p==q is\t"+(p==q));
+		
 		System.out.println("p1=q1 is "+(p1==q1));
 		
 		String s1= new String ("World");

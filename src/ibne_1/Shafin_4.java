@@ -10,7 +10,7 @@ public class Shafin_4 {
 		y=Integer.toString(x);
 		System.out.println("The value of int x =\t"+x);
 		System.out.println("The value of string x=\t"+y);
-
+		
 	}
 
 }
