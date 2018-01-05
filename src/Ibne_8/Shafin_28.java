@@ -21,14 +21,21 @@ public class Shafin_28 {
 		
 		System.out.println("Vector size is "+B.size());
 		
-		B.add(a);
-		B.add(name);
-		B.add(b);
-		B.add(c);
-		B.add(d);
+		B.addElement(a);
+		B.addElement(name);
+		B.addElement(b);
+		B.addElement(c);
+		B.addElement(d);
 		
 		System.out.println("Vector size is "+B.size());
 		System.out.println("Content of vector is\n "+B);
+		
+		for ( int i=0; i<B.size();i++) {
+			
+			System.out.print("Contents of vector  " + i + " is : " );
+			System.out.print(B.elementAt(i)); 
+			System.out.println();
+		}
 		
 		
 		
