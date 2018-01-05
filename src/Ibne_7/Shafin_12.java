@@ -1,4 +1,4 @@
-package ibne_1;
+package Ibne_7;
 
 //using charAt
 public class Shafin_12 {

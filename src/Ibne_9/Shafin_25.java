@@ -1,4 +1,4 @@
-package Ibne_2;
+package Ibne_9;
 
 class student{
 	
