@@ -1,5 +1,6 @@
 package Ibne_8;
 import java.util.*;
+// Using addAll(collection c)
 
 public class Shafin_49 {
 
@@ -30,7 +31,7 @@ public class Shafin_49 {
         System.out.println("Printing all elements of A2 = "+ A2);
 
 
-        // adding alist2 collections to alist1 using addAll method
+        // adding A2 collections to A1 using addAll method
 
         A1.addAll(A2);
    System.out.println("Printing all the elements of A1 after using addAll method=\n "+A1);
