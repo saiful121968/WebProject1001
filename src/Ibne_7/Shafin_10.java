@@ -7,7 +7,7 @@ public class Shafin_10 {
 		
 		String s= "String sre immutable";
 		s=s.concat("  all the time");
-		System.out.println("Two string is added\n"+s);
+		System.out.println("Two string is added : \n"+s);
 		
 		String x="Sadia";
 		String y="  Adira";

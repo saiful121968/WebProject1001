@@ -3,6 +3,8 @@ package Ibne_7;
 public class Shafin_2 {
 	
 static	String Stdent_name[]= { "Shafin","Shakiba","Sadia"};
+
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 	//	String Stdent_name[]= { "Shafin","Shakiba","Sadia"};

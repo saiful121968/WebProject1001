@@ -7,14 +7,16 @@ public class Shafin_18 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		String a= "First Name: Shakiba";
-		String b= "Last Name: Raina";
+		String a= "Shakiba";
+		String b= "Raina";
 		
-		String c=a.concat(  b);
-			
+		String c=a.concat(" ");
+		
+		c=c.concat(b);
+		
 			
 		
-		System.out.println("c\t"+c);
+		System.out.println(c);
 		
 
 	}
