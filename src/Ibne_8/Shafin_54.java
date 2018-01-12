@@ -1,4 +1,6 @@
 package Ibne_8;
+
+//copying all content of ArrayList to an array  by calling toArray() method.
 import java.util.*;
 public class Shafin_54 {
 
