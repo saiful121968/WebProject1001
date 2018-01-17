@@ -13,13 +13,12 @@ class student{
 	this.credit=credit;}
 	
 	
-	
-	void showdata() {
+	void getdata() {
 		 
 				System.out.println("id is : " + id);
 				System.out.println("name is : " + name);
 				System.out.println("credit is : " + credit) ;
-			}
+		}
 	}
 
 
@@ -31,12 +30,12 @@ public class Shafin_25 {
 		int r=7;
 		
 		student S=new student ();
-		
+				
 		S.setdata(501, "Shafin", 90);
 		
-		S. showdata();
+		S. getdata();
 		System.out.println("r is ="+r);
-		}
+	}
 		
 		 }
 

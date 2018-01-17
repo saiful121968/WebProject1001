@@ -3,7 +3,8 @@ package Ibne_9;
 class example{
 	int p;
 	
-   example ( int q) {p=q;}
+   example ( int q) 
+  {p=q;}
 	example changevalue ()
 	{ example m=new example(p*3);
 	return m;
@@ -21,7 +22,7 @@ public class Shafin_26 {
 		System.out.println("The value of this c1 = "+c1.p);
 		System.out.println("The value of this c2 = "+c2.p);
         c2=c2.changevalue();
-        System.out.println("The value of this c1 = "+c1.p);
+        
         System.out.println("The value of this c2 = "+c2.p);
         example c3;
         c3=c2.changevalue();
@@ -29,4 +30,3 @@ public class Shafin_26 {
 	}
 
 }
-;

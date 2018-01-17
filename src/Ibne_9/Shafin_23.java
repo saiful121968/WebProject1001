@@ -15,19 +15,19 @@ public class Shafin_23 {
 		
 		Shafin_23 obj=new Shafin_23();
 		
-		obj.showdata(8);
+		obj.showdata(9);
 		
 		
 		Shafin_23 obj1=new Shafin_23();
 		
-		obj1.showdata(9);}
+		obj1.showdata(10);}
 	
 	public void showdata(int i)// Argument local variable 
 	 
 	 {
-		this.i=i;
+		//this.i=i;
 		
-		System.out.println("Value of local argument(call instance)variable:"+this.i);
+		System.out.println("Value of local argument(call instance)variable:"+i);
 		
 		}
 

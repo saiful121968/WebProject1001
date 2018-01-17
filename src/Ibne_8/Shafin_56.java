@@ -1,4 +1,6 @@
 package Ibne_8;
+
+//Reverse ArrayList content
 import java.util.*;
 public class Shafin_56 {
 
@@ -15,9 +17,9 @@ public class Shafin_56 {
         System.out.println(list);
         Collections.reverse(list);
         System.out.println("Results after reverse operation:\n"+list);
-        for(String str: list)
+        for(String A: list)
         	
-            System.out.println(str);
+            System.out.println(A);
 
 	}
 

@@ -12,7 +12,7 @@ public class Shafin_24 {
 		
       int q=5; //local variable
 		
-		System.out.println("Value of local variable k:"+q);
+		System.out.println("Value of local variable q:"+q);
 		
 		
 		Shafin_24 obj=new Shafin_24();
